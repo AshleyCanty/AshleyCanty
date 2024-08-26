@@ -32,7 +32,7 @@ As I embark on this new chapter in web development, I'm excited to apply my skil
 
 In my free time, you can find me exploring new culinary experiences, taking scenic drives or walks, and cherishing moments with my family.
 
-  - ⚡ Fun fact: One of favorite books is Harry Potter and the Deathly Hollows</a>
+  - ⚡ Fun fact: One of my favorite books is Harry Potter and the Deathly Hollows</a>
 
   <br>
   
