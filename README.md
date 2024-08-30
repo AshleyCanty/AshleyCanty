@@ -39,60 +39,115 @@ In my free time, you can find me exploring new culinary experiences, taking scen
 
 </div>
 
+<h2 align="center">🛠️ &nbsp;Skills</h2>
 
 <div align="center">
-
-  `Developer`
-  <br>
-
-  `=========================`
-  <br>
-
-  `¯\_(ツ)_/¯`
+                <br>
+                    <div align="center">
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
+			<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
+                      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="git" width="75" height="75"/> 
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="css3" width="75" height="75"/>
+                    </div>
 </div>
 
+<br>
+<hr>
 
-<div>
+<!-- PROJECTS -->
 
-  ## 📚 &nbsp;Currently studying
-
-  - Email Development
-
+<h2 align="center">Projects</h2>
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center">Grain (Landing Page)</h3>
+				<div align="center">  
+					<a href='https://grain-demo-website-df82f0a8adb5.herokuapp.com/' target="_blank">
+						<img src="https://github.com/AshleyCanty/AshleyCanty/blob/main/project-1.png" alt="project 1" height="400px" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/AshleyCanty/grain-demo-website" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://grain-demo-website-df82f0a8adb5.herokuapp.com/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>HTML, CSS</strong></p>
+          <p>
+						A responsive landing page based on the Grain website, utilizing HTML and CSS to craft a visually appealing and adaptable layout that performs flawlessly on any device.
+					</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">Daily Harvest</h3>
+				<div align="center" >  
+					<a href='https://bit.ly/3AFtaiS' target="_blank">
+						<img src="https://github.com/AshleyCanty/AshleyCanty/blob/main/project-2.png" alt="project 2" height="400px" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://bit.ly/3AFtaiS" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+					</p>
+					 <p><strong>Shopify</strong></p>
+					<p>Crafted a Shopify replica of the Daily Harvest website, complete with intuitive filtering and sorting features, real-time sold-out indicators, best-seller highlights, and extensive product details. Liquid was also used to adjust the header and card components. </p>
+				</div>
+        </tr>
+	    <tr>
+            <td width="50%">
+                <h3 align="center">Clearview Group</h3>
+                <div align="center" >  
+                    <a href='https://ajcanty-demo-f7071e.ingress-comporellon.ewp.live/home-clearview-group/' target="_blank">
+                        <img src="https://github.com/AshleyCanty/AshleyCanty/blob/main/project-3.png" alt="project 3" height="400px" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+						<a href="https://ajcanty-demo-f7071e.ingress-comporellon.ewp.live/home-clearview-group/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>Wordpress</strong></p>
+		    <p>Developed a responsive WordPress replica of the Clearview Group website using the Bricks website builder. This site is optimized for compatibility across various browsers, ensuring a consistent and seamless user experience on any device. </p>
+                </div>
+            </td>
+        </tr>
+	</table>
 </div>
+<br />
+<br />
+<hr>
 
 
-<div>
 
-  ## 🛠️ &nbsp;My Tech Stacks
+<!-- SOCIALS -->
 
-  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
-  ![Swift](https://img.shields.io/badge/-Swift-0D1117?style=flat&logo=swift)&nbsp;
-  ![XCode](https://img.shields.io/badge/-XCode-0D1117?style=flat&logo=xcode)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
-  ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat&logo=figma)
+<h2 align="center">📫 &nbsp;Contact Me</h2>
+<p align="center">
+	&nbsp&nbsp&nbsp
+	<a href="https://x.com/KurvoCodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://www.linkedin.com/in/ashleyjcanty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://www.instagram.com/kurvocodes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://www.youtube.com/@KurvoCodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingphase" height="30" width="40" /></a>
+</p>
 
-</div>
+<hr>
 
 
-<div>
-
-  ## 📫 &nbsp;My Contacts
-
-  <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Ashley_Canty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashleyjcanty/)](https://www.linkedin.com/in/ashleyjcanty/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-ajcanty.dev@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ajcanty.dev@gmail.com)&nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/-Ashley_Canty_-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kurvocodes/)&nbsp;
-  [![Twitter Badge](https://img.shields.io/badge/-X:_Ashley_Canty-blue?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/KurvoCodes)&nbsp;
-
-</div>
-
-
+<div align="center">
 <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
+</div>
 
 <div>
   <img src="https://raw.githubusercontent.com/AshleyCanty/AshleyCanty/main/github-contribution-grid-snake.svg" alt="snake"></center>
@@ -104,4 +159,4 @@ In my free time, you can find me exploring new culinary experiences, taking scen
 ------
 Credits: [AshleyCanty](https://github.com/AshleyCanty)
 
-Last Edited on: 26/08/2024
+Last Edited on: 08/30/2024
