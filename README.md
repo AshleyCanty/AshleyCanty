@@ -144,12 +144,26 @@ In my free time, you can find me exploring new culinary experiences, taking scen
 
 <hr>
 
+<!-- STATS -->
+<div align="center" margin="100px 0 0 0">
+
+<h2 align="center">Stats</h2>
+<h6 style="color:red">These stats are only for public repos it don't show private stats on projects for previous employers and clients.</h6>
+
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshleyCanty&show_icons=true&locale=en&layout=compact" alt="AshleyCanty" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshleyCanty&show_icons=true&locale=en" alt="AshleyCanty" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshleyCanty&" alt="AshleyCanty" /></p>
+</div>
+<br>
+
 
 <div align="center">
 <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
 </div>
 
-<div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/AshleyCanty/AshleyCanty/main/assets/grid-snake.svg" alt="snake"></center>
 </div>
 
