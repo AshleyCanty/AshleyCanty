@@ -166,11 +166,3 @@ In my free time, you can find me exploring new culinary experiences, taking scen
 <div align="center">
   <img src="https://raw.githubusercontent.com/AshleyCanty/AshleyCanty/main/assets/grid-snake.svg" alt="snake"></center>
 </div>
-
-<!-- ## 📚 &nbsp;My Projects -->
-
-
-------
-Credits: [AshleyCanty](https://github.com/AshleyCanty)
-
-Last Edited on: 08/30/2024
