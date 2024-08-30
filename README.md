@@ -69,7 +69,7 @@ In my free time, you can find me exploring new culinary experiences, taking scen
 				<h3 align="center">Grain (Landing Page)</h3>
 				<div align="center">  
 					<a href='https://grain-demo-website-df82f0a8adb5.herokuapp.com/' target="_blank">
-						<img src="https://github.com/AshleyCanty/AshleyCanty/blob/main/project-1.png" alt="project 1" height="400px" />
+						<img src="https://github.com/AshleyCanty/AshleyCanty/blob/main/project-1.png" alt="project 1" height="375px" />
 					</a>
 					<br>
 					<br>
@@ -91,7 +91,7 @@ In my free time, you can find me exploring new culinary experiences, taking scen
 				<h3 align="center">Daily Harvest</h3>
 				<div align="center" >  
 					<a href='https://bit.ly/3AFtaiS' target="_blank">
-						<img src="https://github.com/AshleyCanty/AshleyCanty/blob/main/project-2.png" alt="project 2" height="400px" />
+						<img src="https://github.com/AshleyCanty/AshleyCanty/blob/main/project-2.png" alt="project 2" height="375px" />
 					</a>
 					<br>
 					<br>
@@ -109,7 +109,7 @@ In my free time, you can find me exploring new culinary experiences, taking scen
                 <h3 align="center">Clearview Group</h3>
                 <div align="center" >  
                     <a href='https://ajcanty-demo-f7071e.ingress-comporellon.ewp.live/home-clearview-group/' target="_blank">
-                        <img src="https://github.com/AshleyCanty/AshleyCanty/blob/main/project-3.png" alt="project 3" height="400px" />
+                        <img src="https://github.com/AshleyCanty/AshleyCanty/blob/main/project-3.png" alt="project 3" height="375px" />
                     </a>
                     <br>
                     <br>
