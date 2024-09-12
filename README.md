@@ -122,6 +122,90 @@ In my free time, you can find me exploring new culinary experiences, taking scen
 		    <p>Developed a responsive WordPress replica of the Clearview Group website using the Bricks website builder. This site is optimized for compatibility across various browsers, ensuring a consistent and seamless user experience on any device. </p>
                 </div>
             </td>
+		    <td width="50%">
+                <h3 align="center">Lucid</h3>
+                <div align="center" >  
+                    <a href='https://ashleycanty.github.io/emails/newsletter/index.html' target="_blank">
+                        <img src="https://github.com/AshleyCanty/AshleyCanty/blob/main/assets/project-4.png" alt="project 4" height="375px" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+			    <a href="https://github.com/AshleyCanty/AshleyCanty.github.io/blob/master/emails/newsletter.html" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+						<a href="https://ashleycanty.github.io/emails/newsletter/index.html" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>Newsletter Email</strong></p>
+		    <p>A responsive newsletter email built using MJML and tested using Litmus.</p>
+                </div>
+            </td>
+        </tr>
+		<tr>
+            <td width="50%">
+                <h3 align="center">Etsy</h3>
+                <div align="center" >  
+                    <a href='https://ashleycanty.github.io/emails/transactional/index.html' target="_blank">
+                        <img src="https://github.com/AshleyCanty/AshleyCanty/blob/main/assets/project-5.png" alt="project 5" height="375px" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+			    <a href="https://github.com/AshleyCanty/AshleyCanty.github.io/blob/master/emails/transactional.html" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a> 
+						<a href="https://ashleycanty.github.io/emails/transactional/index.html" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>Transactional Email</strong></p>
+		    <p>A transactional email developed using MJML and testing using Litmus.</p>
+                </div>
+            </td>
+		    <td width="50%">
+                <h3 align="center">Kohl's</h3>
+                <div align="center" >  
+                    <a href='https://ashleycanty.github.io/emails/promotional/index.html' target="_blank">
+                        <img src="https://github.com/AshleyCanty/AshleyCanty/blob/main/assets/project-6.png" alt="project 6" height="375px" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+			    <a href="https://github.com/AshleyCanty/AshleyCanty.github.io/blob/master/emails/promotional.html" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://ashleycanty.github.io/emails/promotional/index.html" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>Promotional Email</strong></p>
+		    <p>A transactional email developed using MJML and testing using Litmus.</p>
+                </div>
+            </td>
+        </tr>
+		<tr>
+            <td width="50%">
+                <h3 align="center">Viva Pet Shop</h3>
+                <div align="center" >  
+                    <a href='https://ashleycanty.github.io/emails/landing.html' target="_blank">
+                        <img src="https://github.com/AshleyCanty/AshleyCanty/blob/main/assets/project-7.png" alt="project 5" height="375px" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+			    			<a href="https://github.com/AshleyCanty/AshleyCanty.github.io/blob/master/emails/landing.html" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://ashleycanty.github.io/emails/landing.html" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>Landing Page w/ ConvertKit</strong></p>
+		    <p>A landing page that captures emails using ConvertKit.</p>
+                </div>
+            </td>
         </tr>
 	</table>
 </div>
