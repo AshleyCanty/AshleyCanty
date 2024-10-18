@@ -24,11 +24,11 @@
   ## 🧭 &nbsp;About Me
 
 
-I'm Ashley Canty, a web and iOS app developer. After three and a half years of creating mobile experiences, I've decided to broaden my horizons and tackle new challenges by taking on **email marketing** and **web development**.
+I'm Ashley Canty, a Email and Web Developer. After three and a half years of creating experiences on iOS mobile applications, I've decided to broaden my horizons and tackle new challenges by taking on **Email and Web Development**.
 
-My passion lies in enhancing user experiences and collaborating effectively within teams. During my time as an iOS developer, I maintained and improved codebases for core applications. I particularly enjoyed building user interfaces programmatically, finding creative solutions to complex problems.
+My passion lies in enhancing user experiences and collaborating effectively within teams. During my time as an iOS developer, I maintained and improved codebases for core applications at The Meet Group. I particularly enjoyed building user interfaces programmatically, finding creative solutions to complex problems.
 
-As I embark on this new chapter in web development, I'm excited to apply my skills in crafting intuitive, user-friendly websites and applications. I'm always eager to learn and grow, staying up-to-date with the latest web technologies and best practices.
+As I embark on this new chapter in web development, I'm excited to apply my skills in crafting responsive, user-friendly websites and email that ensure brand alignment. I'm always eager to learn and grow, staying up-to-date with the latest technologies and best practices.
 
 In my free time, you can find me exploring new culinary experiences, taking scenic drives or walks, and cherishing moments with my family.
 
